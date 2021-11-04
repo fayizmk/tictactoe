@@ -11,8 +11,11 @@
     "format:lint": "npm run format && npm run lint"
   },
   "dependencies": {
+    "node": "^17.0.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "saas": "^1.0.0",
+    "sass": "^1.43.4"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
